@@ -7,4 +7,3 @@ This solution considers that the maximal product of three will be the product of
 The solution in O(n) time and O(1) space complexity is written to find the three largest values in the array, noting that
 the array elements may not be distinct. 
 The product of these three elements is returned. 
-
