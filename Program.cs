@@ -3,6 +3,9 @@
 int[] arr = {-3, 1, 2, -2, 5, 6};
 Console.WriteLine($"Test result: {MaximalProduct(arr)}");
 
+int[] arr2 = {10, 1, 2, 3, 4, 5, 6};
+Console.WriteLine($"Test first element largest {MaximalProduct(arr2)}"); 
+
 public static partial class Program {
     /// <summary>
     /// Given a non empty array of N integers A
@@ -23,9 +26,9 @@ public static partial class Program {
             return (arr[0] * arr[1] * arr[3]); 
         
         // Find the largest three elements 
-        int p = arr[0];
-        int q = arr[0];
-        int r = arr[0];
+        int p = Int32.MinValue;
+        int q = Int32.MinValue;
+        int r = Int32.MinValue; 
 
         // Replace the first, second and third largest elements 
         // p, q, r maintaining order p >= q >= r
