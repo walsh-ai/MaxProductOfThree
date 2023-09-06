@@ -1,0 +1,14 @@
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\MaxProductOfThree\bin\Debug\net7.0\MaxProductOfThree.exe
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\MaxProductOfThree\bin\Debug\net7.0\MaxProductOfThree.deps.json
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\MaxProductOfThree\bin\Debug\net7.0\MaxProductOfThree.runtimeconfig.json
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\MaxProductOfThree\bin\Debug\net7.0\MaxProductOfThree.dll
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\MaxProductOfThree\bin\Debug\net7.0\MaxProductOfThree.pdb
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\MaxProductOfThree\obj\Debug\net7.0\MaxProductOfThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\MaxProductOfThree\obj\Debug\net7.0\MaxProductOfThree.AssemblyInfoInputs.cache
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\MaxProductOfThree\obj\Debug\net7.0\MaxProductOfThree.AssemblyInfo.cs
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\MaxProductOfThree\obj\Debug\net7.0\MaxProductOfThree.csproj.CoreCompileInputs.cache
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\MaxProductOfThree\obj\Debug\net7.0\MaxProductOfThree.dll
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\MaxProductOfThree\obj\Debug\net7.0\refint\MaxProductOfThree.dll
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\MaxProductOfThree\obj\Debug\net7.0\MaxProductOfThree.pdb
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\MaxProductOfThree\obj\Debug\net7.0\MaxProductOfThree.genruntimeconfig.cache
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\MaxProductOfThree\obj\Debug\net7.0\ref\MaxProductOfThree.dll
