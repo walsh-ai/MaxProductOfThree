@@ -8,3 +8,5 @@ The solution in O(n) time and O(1) space complexity is written to find the three
 the array elements may not be distinct. 
 The product of these three elements is returned. 
 
+However, the problem requires P < Q < R...
+
