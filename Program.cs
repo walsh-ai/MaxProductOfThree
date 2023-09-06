@@ -2,6 +2,7 @@
 // Test the solution 
 int[] arr = {-3, 1, 2, -2, 5, 6};
 Console.WriteLine($"Test result: {MaximalProduct(arr)}");
+
 public static partial class Program {
     /// <summary>
     /// Given a non empty array of N integers A
@@ -26,6 +27,8 @@ public static partial class Program {
         int q = arr[0];
         int r = arr[0];
 
+        // Replace the first, second and third largest elements 
+        // p, q, r maintaining order p >= q >= r
         foreach (int n in arr) {
             if (n > p) {
                 // Set the new largest element 
